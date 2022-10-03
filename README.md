@@ -10,7 +10,7 @@ Joseph</a></h1>
 
 - 🤝 I’m currently looking for Summer 2023 Software Engineering Internships.
 
-- 🌱 I’m currently learning C & Data Structures and Algorithms
+- 🌱 I’m currently learning C# & Data Structures and Algorithms
 
 - 📷 I enjoy photography adn video editing (Adobe Premiere and Canon EOS Rebel T7)
 
