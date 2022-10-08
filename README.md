@@ -3,6 +3,7 @@ Joseph</a></h1>
 <h3 align="center">Aspiring Software Engineer and 2nd Year Computer Science Student</h3>
 https://imgur.com/a/BZADWnM
 <a target="_blank" align="center">
+<blockquote class="imgur-embed-pub" lang="en" data-id="nXDqOx3"><a href="https://imgur.com/nXDqOx3">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   <img align="right" top="500" height="300" width="400" src="https://imgur.com/nXDqOx3">
 </a>
 
