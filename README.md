@@ -3,7 +3,7 @@ Joseph</a></h1>
 <h3 align="center">Aspiring Software Engineer and 2nd Year Computer Science Student</h3>
 https://imgur.com/a/BZADWnM
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="IMG" src="https://imgur.com/a/BZADWnM">
+  <img align="right" top="500" height="300" width="400" alt="PNG" src="https://imgur.com/a/BZADWnM">
 </a>
 
 - 🔭 I’m currently working at Western Carolina University as a Teaching Assistant and Math/Computer Science Tutor
