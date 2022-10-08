@@ -4,7 +4,7 @@ Joseph</a></h1>
 https://imgur.com/a/BZADWnM
 <a target="_blank" align="center">
 
-  <img align="right" top="300" height="300" width="400" src="https://i.gyazo.com/aedc16f7ec3391a3fb1aa0180aca7cee.png">
+  <img align="right" top="300" height="300" width="300" src="https://i.gyazo.com/aedc16f7ec3391a3fb1aa0180aca7cee.png">
 </a>
 
 - 🔭 I’m currently working at Western Carolina University as a Teaching Assistant and Math/Computer Science Tutor
