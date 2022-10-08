@@ -12,7 +12,7 @@ Joseph</a></h1>
 
 - 🌱 I’m currently learning C# & Data Structures and Algorithms
 
-- 📷 I enjoy photography adn video editing (Adobe Premiere and Canon EOS Rebel T7)
+- 📷 I enjoy photography and video editing (Adobe Premiere and Canon EOS Rebel T7)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Feel free to look around! 🤝 </h3>
 
