@@ -15,7 +15,7 @@ https://imgur.com/a/BZADWnM
 
 - 📷 I enjoy photography and video editing (Adobe Premiere and Canon EOS Rebel T7)
 https://imgur.com/a/BZADWnM
-<h3 align="center" > <img src="[https://imgur.com/a/BZADWnM](https://imgur.com/a/BZADWnM)" width="30" height="30" style="margin-right: 10px;">Feel free to look around! 🤝 </h3>
+<h3 align="center" > Feel free to look around! 🤝 </h3>
 
 <p align="center">
 
