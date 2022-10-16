@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm
 Joseph</a></h1>
 <h3 align="center">Aspiring Software Engineer and 2nd Year Computer Science Student</h3>
-https://imgur.com/a/BZADWnM
-<a target="_blank" align="center">
+ <a target="_blank" align="center">
 
   <img align="right" top="300" height="300" width="400" src="https://i.gyazo.com/7d1f66e8596b9be19c5e28e40e8fef67.png">
 </a>
