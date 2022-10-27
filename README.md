@@ -26,7 +26,6 @@ https://imgur.com/a/BZADWnM
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16072784/indexjoseph?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
-
 </p>
 
 
