@@ -13,7 +13,7 @@ Joseph </a></h1>
 - 🌱 I’m currently learning C# & Data Structures and Algorithms
 
 - 📷 I enjoy photography and video editing (Adobe Premiere and Canon EOS Rebel T7)
-https://imgur.com/a/BZADWnM
+
 <h3 align="center" > Feel free to look around! 🤝 </h3>
 
 <p align="center">
