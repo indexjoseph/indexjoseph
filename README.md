@@ -6,7 +6,7 @@ Joseph </a></h1>
   <img align="right" top="300" height="300" width="400" src="https://i.gyazo.com/7d1f66e8596b9be19c5e28e40e8fef67.png">
 </a>
 
-- 🔭 I’m currently working at Western Carolina University as a Teaching Assistant and Mathematics/Computer Science Tutor
+- 🔭 I’m currently working at Western Carolina University as a Undergraduate Teaching Assistant and Mathematics/Computer Science Tutor
 
 - 🤝 I’m currently looking for Summer 2024 Software Engineering Internships.
 
