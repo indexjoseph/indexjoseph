@@ -8,7 +8,7 @@ Joseph </a></h1>
 
 - 🔭 I’m currently working at Western Carolina University as a Teaching Assistant and Mathematics/Computer Science Tutor
 
-- 🤝 I’m currently looking for Summer 2023 Software Engineering Internships.
+- 🤝 I’m currently looking for Summer 2024 Software Engineering Internships.
 
 - 🌱 I’m currently learning C# & Data Structures and Algorithms
 
