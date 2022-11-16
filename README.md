@@ -14,7 +14,7 @@ Joseph </a></h1>
 
 - 📷 I enjoy photography and video editing (Adobe Premiere and Canon EOS Rebel T7)
 
-<h3 align="center" > Feel free to look around! 🤝 </h3>
+<h3 align="center" > Feel free to look around!  🤝  </h3>
 
 <p align="center">
 
