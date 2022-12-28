@@ -7,7 +7,7 @@ Joseph </a></h1>
 
 - 🔭 I’m currently working at Western Carolina University as a Undergraduate Teaching Assistant and Mathematics/Computer Science Tutor
 
-- 🌱 I’m currently learning C & Networking
+- 🌱 I’m currently learning C, Socket Programming, TypeScript, and Angular
 
 - 📷 I enjoy photography and video editing (Adobe Premiere and Canon EOS Rebel T7)
 
