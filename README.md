@@ -7,6 +7,8 @@ Joseph </a></h1>
 
 - 🔭 I’m currently working at Western Carolina University as a Undergraduate Teaching Assistant and Mathematics/Computer Science Tutor
 
+- 📚 I'm proficient in Java, JavaScript and Python
+
 - 📖 I'm interested in Backend Development, Security Engineering and Mobile Application Development
 
 - 🌱 I’m currently learning C, Socket Programming, TypeScript, and Angular
